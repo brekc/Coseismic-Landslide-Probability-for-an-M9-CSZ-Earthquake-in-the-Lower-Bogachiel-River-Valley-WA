@@ -8,3 +8,12 @@ The Bogachiel River Valley is situated between Clallam and Jefferson counties on
 
 The purpose of my study is to determine areas where landslides could occur in the Lower Bogachiel River Valley following an M9 CSZ earthquake. Using an empirical model (Nowicki Jessee et al., 2018), I calculate landslide probability given peak ground velocity (PGV) from published M9 CSZ earthquake scenarios (Frankel et al., 2018), and geospatial datasets for deriving topographic slope, compound topographic index (CTI), land cover, and lithology input parameters. With a coseismic landslide probability map, I postulate where we would expect ground failures to occur in the Lower Bogachiel River Valley and estimate the area at high-risk of landslides for an M9 CSZ earthquake. My study of coseismic landslide probability provides insight into potential ground failures from M9 CSZ earthquakes which could help improve hazard and ecosystem mitigation plans for the Lower Bogachiel River Valley.
 
+## Datasets
+
+## Tools & Packages
+
+## Methodology
+
+## Relevant Resources
+
+## References
