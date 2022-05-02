@@ -1,6 +1,5 @@
 # Coseismic-Landslide-Probability-for-an-M9-CSZ-Earthquake-in-the-Lower-Bogachiel-River-Valley-WA
-** By: Brek Chiles, 2022
-This repository contains Python code that I used for my Master's capstone in the University of Washington's MESSAGe program.
+**By: Brek Chiles, 2022
 
 ## Introduction
 The Cascadia Subduction Zone (CSZ) is a significant seismic hazard to the Western Olympic Peninsula in Washington State and can generate M9 megathrust earthquakes that trigger landslides. According to a report by the Cascadia Region Earthquake Workgroup (2013), coastal areas will experience the most ground shaking during a CSZ earthquake. Coastal communities will also lose access to inland areas as ground shaking and landslides cause severe damage to roadways and disrupt transportation networks (Cascadia Region Earthquake Workgroup, 2013). For communities surrounding the Bogachiel River Valley, WA, damaged roadways could prevent people from fleeing tsunami inundation zones and stall relief efforts. 
