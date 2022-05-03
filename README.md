@@ -9,6 +9,19 @@ The Bogachiel River Valley is situated between Clallam and Jefferson counties on
 The purpose of my study is to determine areas where landslides could occur in the Lower Bogachiel River Valley following an M9 CSZ earthquake. Using an empirical model (Nowicki Jessee et al., 2018), I calculate landslide probability given peak ground velocity (PGV) from published M9 CSZ earthquake scenarios (Frankel et al., 2018), and geospatial datasets for deriving topographic slope, compound topographic index (CTI), land cover, and lithology input parameters. With a coseismic landslide probability map, I postulate where we would expect ground failures to occur in the Lower Bogachiel River Valley and estimate the area at high-risk of landslides for an M9 CSZ earthquake. My study of coseismic landslide probability provides insight into potential ground failures from M9 CSZ earthquakes which could help improve hazard and ecosystem mitigation plans for the Lower Bogachiel River Valley.
 
 ## Datasets
+1. LiDAR data for computing topograpic slope and CTI
+   - https://lidarportal.dnr.wa.gov/
+    - 
+2. PGV data depends on earthquake event chosen
+   - https://www.designsafe-ci.org/data/browser/public/designsafe.storage.published//PRJ-1355/Frankel_etal_Production/csz010
+3. Lithology data (GLIM – Global Lithological Map Database)
+   - https://www.geo.uni-hamburg.de/de/geologie/forschung/geochemie/glim.html
+4. Landcover data (GlobCover 2009 dataset)
+   - https://www.arcgis.com/home/item.html?id=77864b7ae87a49e7984998e63d768c77
+5. Compound Topographic Index (CTI) HDMA database
+   - https://www.sciencebase.gov/catalog/item/591b53bae4b0a7fdb43c8d1d
+6. Washington State Highway Data from WSDOT
+   - https://www.wsdot.wa.gov/mapsdata/geodatacatalog/maps/NOSCALE/dot_TDO/LRS/500KLRS_2019.zip
 
 ## Tools & Packages
 
