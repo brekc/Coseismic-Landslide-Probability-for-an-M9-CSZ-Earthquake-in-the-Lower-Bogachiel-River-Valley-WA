@@ -1,4 +1,4 @@
-# Coseismic Landslide Probability for an M9 CSZ Earthquake in the Lower Bogachiel River Valley, WA
+# Coseismic Landslide Probability for an M9 Cascadia Subduction Zone Earthquake in the Lower Bogachiel River Valley, WA
 **By: Brek Chiles, 2022**
 
 ## Introduction
