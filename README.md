@@ -4,7 +4,7 @@
 ## Introduction
 
 ## Datasets
-1. LiDAR data for computing topograpic slope and CTI inputs
+1. LiDAR data for computing topographic slope and CTI inputs
    - https://lidarportal.dnr.wa.gov/
    - Olympics North Opsw 2018, OESF 2014, and Olympic Park 2014
 2. 30 M9 CSZ earthquake scenarios for PGV input
