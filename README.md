@@ -23,13 +23,13 @@
 ## Tools & Packages
 
 ## Methodology
-* ### Data Collection (Python & QGIS)
+### 1. Data Collection (Python & QGIS)
   - Geospatial Datasets, Landslide Inventory, Fieldwork (May and July 2021)
-* ### Calculate Coseismic Landslide Probability (Python)
+### 2. Calculate Coseismic Landslide Probability (Python)
   - Calculate probability for 30 M9 CSZ scenarios (Frankel et al., 2018)
-* ### Geospatial Analysis (QGIS)
+### 3. Geospatial Analysis (QGIS)
   - Find overlap between 30 probability models for 50% and 75% probability thresholds, High-risk Area Estimates
-* ### Sensitivity Analysis for PGV Spatial Resolution (Python)
+### 4. Sensitivity Analysis for PGV Spatial Resolution (Python)
   - Find overlap between 30 probability models for 50% and 75% probability thresholds, High-risk Area Estimates
 
 ## Relevant Resources
