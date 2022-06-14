@@ -21,7 +21,7 @@
    - https://esa-worldcover.org/en
 
 ## Tools & Packages
-* ###Data Collection (Python & QGIS)
+* ### Data Collection (Python & QGIS)
 
 ## Methodology
 
