@@ -21,6 +21,26 @@
    - https://esa-worldcover.org/en
 
 ## Tools & Packages
+* Fiona
+- https://pypi.org/project/Fiona/
+* GDAL
+- https://gdal.org/
+* Matplotlib
+- https://matplotlib.org/stable/api/index
+* Numpy
+- https://numpy.org/doc/stable/
+* Pandas
+- https://pandas.pydata.org/docs/
+* Rasterio
+- https://rasterio.readthedocs.io/en/latest/index.html
+* Rioxarray 
+- https://corteva.github.io/rioxarray/stable/index.html
+* Scipy
+- https://docs.scipy.org/doc/scipy/
+* UTM
+- https://github.com/Turbo87/utm
+* Xarray
+- https://docs.xarray.dev/en/stable/
 
 ## Methodology
 1. Data Collection (Python & QGIS)
