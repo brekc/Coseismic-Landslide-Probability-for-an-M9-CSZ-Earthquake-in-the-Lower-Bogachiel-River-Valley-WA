@@ -22,25 +22,23 @@
 
 ## Tools & Packages
 1. Fiona
-- https://pypi.org/project/Fiona/
+   - https://pypi.org/project/Fiona/
 2. GDAL
-- https://gdal.org/
-* Matplotlib
-- https://matplotlib.org/stable/api/index
-* Numpy
-- https://numpy.org/doc/stable/
-* Pandas
-- https://pandas.pydata.org/docs/
-* Rasterio
-- https://rasterio.readthedocs.io/en/latest/index.html
-* Rioxarray 
-- https://corteva.github.io/rioxarray/stable/index.html
-* Scipy
-- https://docs.scipy.org/doc/scipy/
-* UTM
-- https://github.com/Turbo87/utm
-* Xarray
-- https://docs.xarray.dev/en/stable/
+   - https://gdal.org/
+3. Matplotlib
+   - https://matplotlib.org/stable/api/index
+4. Numpy
+   - https://numpy.org/doc/stable/
+5. Pandas
+   - https://pandas.pydata.org/docs/
+6. Rasterio
+   - https://rasterio.readthedocs.io/en/latest/index.html
+7. Rioxarray
+   - https://corteva.github.io/rioxarray/stable/index.html
+8. Scipy
+   - https://docs.scipy.org/doc/scipy/
+9. Xarray
+   - https://docs.xarray.dev/en/stable/
 
 ## Methodology
 1. Data Collection (Python & QGIS)
